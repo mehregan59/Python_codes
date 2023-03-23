@@ -1,0 +1,87 @@
+java -ea -Xmx31g -Xms31g -cp /beegfs/work/fr_mh1379/metaWRAP/BBMap_38.95/bbmap/current/ align2.BBMap build=1 overwrite=true fastareadlen=500 -Xmx31g ref=/beegfs/work/fr_mh1379/metaWRAP/BBMap_38.95/Dh.fa nodisk in1=DE872_1.fastq.gz in2=DE872_2.fastq.gz outu1=Mapout/DE872_1_unmapped.fastq.gz outu2=Mapout/DE872_2_unmapped.fastq.gz outm1=Mapout/DE872_1_mapped.fastq.gz outm2=Mapout/DE872_2_mapped.fastq.gz
+Executing align2.BBMap [build=1, overwrite=true, fastareadlen=500, -Xmx31g, ref=/beegfs/work/fr_mh1379/metaWRAP/BBMap_38.95/Dh.fa, nodisk, in1=DE872_1.fastq.gz, in2=DE872_2.fastq.gz, outu1=Mapout/DE872_1_unmapped.fastq.gz, outu2=Mapout/DE872_2_unmapped.fastq.gz, outm1=Mapout/DE872_1_mapped.fastq.gz, outm2=Mapout/DE872_2_mapped.fastq.gz]
+Version 38.95
+
+Retaining first best site only for ambiguous mappings.
+Executing dna.FastaToChromArrays2 [/beegfs/work/fr_mh1379/metaWRAP/BBMap_38.95/Dh.fa, 1, writeinthread=false, genscaffoldinfo=true, retain, waitforwriting=false, gz=true, maxlen=536670912, writechroms=false, minscaf=1, midpad=300, startpad=8000, stoppad=8000, nodisk=true]
+
+Set genScaffoldInfo=true
+Set genome to 1
+
+Loaded Reference:	0.012 seconds.
+Loading index for chunk 1-8, build 1
+Indexing threads started for block 0-3
+Indexing threads finished for block 0-3
+Indexing threads started for block 4-7
+Indexing threads finished for block 4-7
+Indexing threads started for block 8-8
+Indexing threads finished for block 8-8
+Generated Index:	232.507 seconds.
+Analyzed Index:   	8.797 seconds.
+Started output stream:	0.283 seconds.
+Started output stream:	0.001 seconds.
+Cleared Memory:    	2.923 seconds.
+Processing reads in paired-ended mode.
+Started read stream.
+Started 7 mapping threads.
+Detecting finished threads: 0, 1, 2, 3, 4, 5, 6
+
+   ------------------   Results   ------------------   
+
+Genome:                	1
+Key Length:            	13
+Max Indel:             	16000
+Minimum Score Ratio:  	0.56
+Mapping Mode:         	normal
+Reads Used:           	332346	(33409038 bases)
+
+Mapping:          	402.149 seconds.
+Reads/sec:       	826.43
+kBases/sec:      	83.08
+
+
+Pairing data:   	pct pairs	num pairs 	pct bases	   num bases
+
+mated pairs:     	 81.1456% 	   134842 	 80.2329% 	    26805036
+bad pairs:       	  3.4506% 	     5734 	  2.7434% 	      916530
+insert size avg: 	  133.05
+
+
+Read 1 data:      	pct reads	num reads 	pct bases	   num bases
+
+mapped:          	 85.9550% 	   142834 	 83.1849% 	    14071722
+unambiguous:     	 64.7753% 	   107639 	 66.8036% 	    11300634
+ambiguous:       	 21.1797% 	    35195 	 16.3813% 	     2771088
+low-Q discards:  	  0.0000% 	        0 	  0.0000% 	           0
+
+perfect best site:	 34.3185% 	    57028 	 38.6150% 	     6532199
+semiperfect site:	 34.6085% 	    57510 	 38.8396% 	     6570180
+rescued:         	  7.9327% 	    13182
+
+Match Rate:      	      NA 	       NA 	 56.3814% 	    13637937
+Error Rate:      	 60.0193% 	    85728 	 43.5951% 	    10545105
+Sub Rate:        	 56.9661% 	    81367 	  1.5233% 	      368478
+Del Rate:        	 11.2900% 	    16126 	 41.8253% 	    10117014
+Ins Rate:        	 10.2623% 	    14658 	  0.2464% 	       59613
+N Rate:          	  0.3214% 	      459 	  0.0235% 	        5694
+
+
+Read 2 data:      	pct reads	num reads 	pct bases	   num bases
+
+mapped:          	 87.7910% 	   145885 	 86.0397% 	    14190386
+unambiguous:     	 66.0372% 	   109736 	 69.0332% 	    11385531
+ambiguous:       	 21.7538% 	    36149 	 17.0065% 	     2804855
+low-Q discards:  	  0.0000% 	        0 	  0.0000% 	           0
+
+perfect best site:	 32.9723% 	    54791 	 37.6408% 	     6208036
+semiperfect site:	 33.2443% 	    55243 	 37.8521% 	     6242890
+rescued:         	 10.5799% 	    17581
+
+Match Rate:      	      NA 	       NA 	 35.3063% 	    13727833
+Error Rate:      	 62.3896% 	    91017 	 64.6797% 	    25148875
+Sub Rate:        	 58.4728% 	    85303 	  1.0110% 	      393081
+Del Rate:        	 13.1268% 	    19150 	 63.5041% 	    24691769
+Ins Rate:        	 10.6995% 	    15609 	  0.1647% 	       64025
+N Rate:          	  0.3023% 	      441 	  0.0140% 	        5447
+
+Total time:     	678.287 seconds.
