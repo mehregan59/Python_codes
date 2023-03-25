@@ -1,0 +1,655 @@
+contig_id	length	checkv_quality	completeness	completeness_method	contamination	warnings
+k141_10041_length_7664_cov_17.0000	7664	Low-quality	19.13	AAI-based (medium-confidence)	0	
+k141_100608_length_3384_cov_75.0025	3384	Low-quality	8.26	AAI-based (medium-confidence)	0	
+k141_100689_length_1716_cov_31.0000	1716	Low-quality	1.16	HMM-based (lower-bound)	0	
+k141_100977_length_2711_cov_10.0000	2711	Low-quality	7.04	AAI-based (high-confidence)	0	
+k141_101994_length_3705_cov_85.1313	3705	Low-quality	7.54	AAI-based (medium-confidence)	0	
+k141_102598_length_2583_cov_17.0000	2583	Low-quality	2.56	HMM-based (lower-bound)	0	
+k141_102638_length_57972_cov_135.3438_fragment_1	15962	Low-quality	46.16	AAI-based (medium-confidence)	0	
+k141_102988_length_2760_cov_64.4154	2760	Low-quality	1.71	HMM-based (lower-bound)	0	
+k141_103500_length_3289_cov_38.7611	3289	Low-quality	3.5	HMM-based (lower-bound)	0	
+k141_104029_length_1284_cov_96.7209	1284	Low-quality	2.08	AAI-based (medium-confidence)	0	
+k141_105398_length_24088_cov_119.2994	24088	Not-determined	NA	NA	0	no viral genes detected
+k141_105469_length_3366_cov_8.0000	3366	Low-quality	10.56	AAI-based (high-confidence)	0	
+k141_106179_length_4187_cov_13.0000	4187	Low-quality	13.41	HMM-based (lower-bound)	0	
+k141_106633_length_2125_cov_6.0000	2125	Low-quality	3.37	AAI-based (medium-confidence)	0	no viral genes detected
+k141_106965_length_3772_cov_15.0000	3772	Low-quality	2.49	HMM-based (lower-bound)	0	
+k141_10723_length_1609_cov_10.0000	1609	Low-quality	2.96	AAI-based (medium-confidence)	0	
+k141_107404_length_14767_cov_35.9201	14767	Low-quality	28.19	HMM-based (lower-bound)	0	
+k141_107481_length_2706_cov_24.0000	2706	Low-quality	3.02	HMM-based (lower-bound)	0	
+k141_107706_length_5567_cov_46.0000	5567	Low-quality	6.88	HMM-based (lower-bound)	22.63	
+k141_108863_length_1406_cov_12.0000	1406	Not-determined	NA	NA	0	no viral genes detected
+k141_109047_length_12883_cov_79.3665	12883	Not-determined	NA	NA	0	no viral genes detected
+k141_109509_length_1841_cov_6.0000	1841	Low-quality	2.53	AAI-based (medium-confidence)	0	
+k141_110155_length_2700_cov_31.7397	2700	Not-determined	NA	NA	0	no viral genes detected
+k141_110372_length_1333_cov_14.0000	1333	Low-quality	2.15	HMM-based (lower-bound)	0	
+k141_110539_length_3890_cov_39.0000	3890	Not-determined	NA	NA	0	no viral genes detected
+k141_110638_length_7485_cov_22.2339	7485	Not-determined	NA	NA	0	no viral genes detected
+k141_110800_length_20850_cov_22.8973	20850	Medium-quality	55.18	AAI-based (medium-confidence)	0	
+k141_110914_length_3396_cov_14.6249	3396	Low-quality	11.89	AAI-based (medium-confidence)	0	
+k141_111364_length_14689_cov_20.2044	14689	Low-quality	14.45	HMM-based (lower-bound)	0	
+k141_111497_length_17981_cov_41.7236	17981	Low-quality	39.91	AAI-based (high-confidence)	0	
+k141_112447_length_2494_cov_11.0000	2494	Not-determined	NA	NA	0	no viral genes detected
+k141_112499_length_1590_cov_48.3326	1590	Low-quality	2.14	HMM-based (lower-bound)	0	
+k141_112970_length_1929_cov_9.0000	1929	Low-quality	10.17	AAI-based (medium-confidence)	0	
+k141_113088_length_13573_cov_373.7313	13573	Low-quality	27.87	AAI-based (medium-confidence)	0	
+k141_113571_length_2763_cov_5.0000	2763	Low-quality	5.1	HMM-based (lower-bound)	0	
+k141_114084_length_5612_cov_227.7015	5612	Low-quality	5.12	HMM-based (lower-bound)	0	
+k141_114639_length_2257_cov_8.0000	2257	Low-quality	3.24	AAI-based (high-confidence)	0	
+k141_114883_length_14209_cov_24.8711	14209	Low-quality	33.95	AAI-based (medium-confidence)	0	
+k141_115186_length_1644_cov_6.1976	1644	Low-quality	4.06	AAI-based (medium-confidence)	0	
+k141_115595_length_1307_cov_21.0000	1307	Low-quality	2.15	HMM-based (lower-bound)	0	
+k141_115630_length_1357_cov_27.0000	1357	Low-quality	2.89	AAI-based (high-confidence)	0	
+k141_116146_length_1580_cov_26.0000	1580	Not-determined	NA	NA	0	no viral genes detected
+k141_116272_length_7264_cov_18.7549	7264	Low-quality	12.75	AAI-based (high-confidence)	0	
+k141_117357_length_3107_cov_15.0000	3107	Low-quality	5.98	AAI-based (medium-confidence)	0	
+k141_117790_length_1857_cov_8.0000	1857	Low-quality	4.86	AAI-based (medium-confidence)	0	
+k141_118267_length_8646_cov_15.0000	8646	Low-quality	22.59	AAI-based (medium-confidence)	0	
+k141_118335_length_59869_cov_201.6666_fragment_1	38674	High-quality	96.1	AAI-based (medium-confidence)	0	
+k141_11840_length_178186_cov_241.4690_fragment_1	26363	Medium-quality	64.34	AAI-based (high-confidence)	18.7	
+k141_119720_length_1304_cov_5.0000	1304	Low-quality	3.9	HMM-based (lower-bound)	0	
+k141_120081_length_7949_cov_15.0000	7949	Low-quality	2.92	HMM-based (lower-bound)	0	
+k141_120649_length_1581_cov_13.0000	1581	Low-quality	2.44	HMM-based (lower-bound)	0	
+k141_120789_length_2783_cov_14.0000	2783	Not-determined	NA	NA	0	no viral genes detected
+k141_120848_length_1053_cov_13.0000	1053	Low-quality	2.14	AAI-based (medium-confidence)	0	
+k141_12086_length_3090_cov_57.1472	3090	Low-quality	2.2	HMM-based (lower-bound)	0	
+k141_121102_length_7756_cov_14.0000	7756	Low-quality	2.61	HMM-based (lower-bound)	0	
+k141_121509_length_1028_cov_19.0000	1028	Low-quality	1.84	AAI-based (high-confidence)	0	no viral genes detected
+k141_122530_length_1219_cov_12.0000	1219	Low-quality	0.68	HMM-based (lower-bound)	0	
+k141_122661_length_1768_cov_20.8494	1768	Not-determined	NA	NA	0	no viral genes detected
+k141_122787_length_2168_cov_28.0000	2168	Low-quality	3.61	HMM-based (lower-bound)	0	
+k141_122842_length_9828_cov_638.1406	9828	Low-quality	24.52	AAI-based (medium-confidence)	0	
+k141_125153_length_2421_cov_10.0000	2421	Low-quality	2.62	HMM-based (lower-bound)	0	
+k141_125795_length_2005_cov_18.0000	2005	Low-quality	0.72	HMM-based (lower-bound)	0	
+k141_126017_length_1592_cov_14.0000	1592	Low-quality	3.06	AAI-based (medium-confidence)	0	
+k141_126204_length_4256_cov_15.0000	4256	Low-quality	1.44	HMM-based (lower-bound)	0	
+k141_127384_length_2323_cov_12.0000	2323	Low-quality	6.28	AAI-based (medium-confidence)	0	
+k141_127497_length_11506_cov_63.1121	11506	Low-quality	24.71	AAI-based (medium-confidence)	0	
+k141_127631_length_11251_cov_94.9580	11251	Low-quality	24.22	AAI-based (medium-confidence)	0	
+k141_127727_length_7886_cov_9.0000	7886	Low-quality	7.28	HMM-based (lower-bound)	0	
+k141_128421_length_2246_cov_5.0000	2246	Low-quality	5.78	AAI-based (medium-confidence)	0	
+k141_12916_length_54235_cov_42126.9825	54235	Low-quality	35.43	AAI-based (high-confidence)	0	
+k141_129265_length_1415_cov_9.0000	1415	Low-quality	2.03	AAI-based (high-confidence)	0	
+k141_132657_length_1285_cov_12.0000	1285	Low-quality	2.55	AAI-based (medium-confidence)	0	
+k141_133502_length_3912_cov_121.6232	3912	Not-determined	NA	NA	0	no viral genes detected
+k141_133587_length_2378_cov_8.0000	2378	Low-quality	3.82	HMM-based (lower-bound)	0	
+k141_133671_length_143192_cov_11.1844_fragment_2	5783	Low-quality	11.19	AAI-based (high-confidence)	29.47	
+k141_134344_length_1698_cov_43.4579	1698	Low-quality	3.06	HMM-based (lower-bound)	0	
+k141_134992_length_4812_cov_15.0777	4812	Low-quality	12.49	AAI-based (medium-confidence)	0	
+k141_136130_length_2113_cov_9.0000	2113	Not-determined	NA	NA	0	no viral genes detected
+k141_136335_length_3572_cov_25.0790	3572	Low-quality	6.75	AAI-based (medium-confidence)	26.62	
+k141_136543_length_4265_cov_22.0000	4265	Low-quality	3.18	HMM-based (lower-bound)	0	
+k141_137159_length_20640_cov_40.8469	20640	Not-determined	NA	NA	0	no viral genes detected
+k141_137561_length_4365_cov_9.0000	4365	Low-quality	13.78	AAI-based (high-confidence)	0	
+k141_137636_length_2746_cov_32.3152	2746	Low-quality	6.68	AAI-based (high-confidence)	0	
+k141_137960_length_3069_cov_24.0000	3069	Low-quality	7.88	AAI-based (high-confidence)	0	
+k141_138430_length_1645_cov_18.0000	1645	Low-quality	5.53	AAI-based (high-confidence)	0	
+k141_138904_length_6400_cov_30.0000	6400	Low-quality	10.83	HMM-based (lower-bound)	0	
+k141_139275_length_2005_cov_13.0000	2005	Low-quality	3.2	HMM-based (lower-bound)	0	
+k141_139471_length_1009_cov_3.0000	1009	Low-quality	2.42	AAI-based (high-confidence)	0	no viral genes detected
+k141_139492_length_13606_cov_32.3161	13606	Low-quality	19.64	HMM-based (lower-bound)	0	
+k141_13960_length_6168_cov_7.4224	6168	Low-quality	14.6	AAI-based (high-confidence)	0	
+k141_140460_length_3911_cov_16.7289	3911	Low-quality	19.21	AAI-based (medium-confidence)	0	no viral genes detected
+k141_140691_length_2057_cov_13.0000	2057	Not-determined	NA	NA	0	no viral genes detected
+k141_141551_length_2000_cov_22.0000	2000	Low-quality	2.6	HMM-based (lower-bound)	0	
+k141_141597_length_1645_cov_14.0000	1645	Low-quality	2.74	AAI-based (medium-confidence)	0	
+k141_141812_length_14901_cov_108.3220	14901	Low-quality	22.12	HMM-based (lower-bound)	0	
+k141_142098_length_3047_cov_18.0000	3047	Low-quality	9.99	AAI-based (medium-confidence)	0	no viral genes detected
+k141_142913_length_7990_cov_26.0000	7990	Low-quality	9.12	HMM-based (lower-bound)	0	
+k141_14309_length_2596_cov_9.0000	2596	Not-determined	NA	NA	0	no viral genes detected
+k141_143372_length_2818_cov_41.4023	2818	Low-quality	4.61	HMM-based (lower-bound)	0	
+k141_144422_length_10730_cov_27.5396	10730	Not-determined	NA	NA	0	no viral genes detected
+k141_145034_length_1773_cov_13.2359	1773	Not-determined	NA	NA	0	no viral genes detected
+k141_147479_length_13858_cov_23.0000	13858	Not-determined	NA	NA	0	no viral genes detected
+k141_148087_length_1313_cov_6.0000	1313	Low-quality	1.57	AAI-based (medium-confidence)	0	no viral genes detected
+k141_148704_length_2074_cov_25.0000	2074	Low-quality	0.46	HMM-based (lower-bound)	0	
+k141_148795_length_2492_cov_47.9860	2492	Low-quality	4.83	AAI-based (medium-confidence)	0	
+k141_148851_length_3917_cov_12.0000	3917	Low-quality	7.38	AAI-based (medium-confidence)	0	no viral genes detected
+k141_14924_length_1888_cov_69.1236	1888	Low-quality	4.72	AAI-based (high-confidence)	0	no viral genes detected
+k141_149517_length_1741_cov_6.0000	1741	Low-quality	4.16	AAI-based (high-confidence)	0	
+k141_149636_length_384491_cov_630.0820_fragment_1	36383	Medium-quality	77.28	AAI-based (medium-confidence)	21.61	
+k141_149703_length_2682_cov_87.7879	2682	Low-quality	1.49	HMM-based (lower-bound)	0	
+k141_149720_length_2628_cov_7.0000	2628	Low-quality	3.77	AAI-based (high-confidence)	0	
+k141_150085_length_2853_cov_163.0000	2853	Not-determined	NA	NA	0	no viral genes detected
+k141_150625_length_6327_cov_7.0000	6327	Low-quality	15.36	AAI-based (high-confidence)	0	
+k141_150928_length_5449_cov_11.0000	5449	Low-quality	9.78	AAI-based (medium-confidence)	0	
+k141_151433_length_2788_cov_8.0000	2788	Low-quality	4.36	AAI-based (high-confidence)	0	
+k141_151950_length_13461_cov_18.0000	13461	Low-quality	27.66	AAI-based (high-confidence)	0	
+k141_152112_length_3340_cov_24.5724	3340	Not-determined	NA	NA	0	no viral genes detected
+k141_152119_length_64508_cov_58.9946	64508	High-quality	100	AAI-based (medium-confidence)	0	
+k141_153911_length_2356_cov_76.2646	2356	Not-determined	NA	NA	0	no viral genes detected
+k141_154072_length_3120_cov_112.7247	3120	Low-quality	7.64	AAI-based (high-confidence)	0	
+k141_155008_length_3310_cov_9.0000	3310	Low-quality	7.26	AAI-based (medium-confidence)	0	
+k141_155511_length_3206_cov_16.0000	3206	Low-quality	6.33	AAI-based (high-confidence)	0	
+k141_156660_length_6592_cov_17.0000	6592	Low-quality	16.78	AAI-based (medium-confidence)	0	
+k141_157111_length_4673_cov_83.1227	4673	Low-quality	4.85	HMM-based (lower-bound)	0	
+k141_157243_length_1231_cov_31.0000	1231	Low-quality	2.91	AAI-based (medium-confidence)	0	
+k141_157297_length_1267_cov_35.8890	1267	Not-determined	NA	NA	0	no viral genes detected
+k141_157544_length_1539_cov_16.0000	1539	Not-determined	NA	NA	0	no viral genes detected
+k141_157829_length_3190_cov_21.0000	3190	Low-quality	2.01	HMM-based (lower-bound)	0	
+k141_158327_length_7269_cov_8.0000	7269	Low-quality	19.21	AAI-based (high-confidence)	0	
+k141_158781_length_5694_cov_56.7837	5694	Low-quality	13.69	HMM-based (lower-bound)	0	
+k141_159778_length_2405_cov_16.0000	2405	Low-quality	3.5	HMM-based (lower-bound)	0	
+k141_159954_length_4906_cov_15.0000	4906	Low-quality	11.5	AAI-based (medium-confidence)	0	
+k141_161046_length_2432_cov_5.0000	2432	Low-quality	4.5	AAI-based (medium-confidence)	0	no viral genes detected
+k141_161406_length_4099_cov_50.0793	4099	Low-quality	10.76	AAI-based (high-confidence)	0	
+k141_162914_length_3518_cov_79.0157	3518	Low-quality	5.97	HMM-based (lower-bound)	0	
+k141_163095_length_5356_cov_31.0000	5356	Low-quality	10.1	AAI-based (medium-confidence)	0	
+k141_16337_length_10511_cov_67.9288	10511	Low-quality	20.92	AAI-based (medium-confidence)	0	
+k141_163779_length_6542_cov_17.0000	6542	Low-quality	8.47	AAI-based (medium-confidence)	0	no viral genes detected
+k141_163887_length_2691_cov_22.3655	2691	Not-determined	NA	NA	0	no viral genes detected
+k141_165250_length_5047_cov_58.6708	5047	Not-determined	NA	NA	0	no viral genes detected
+k141_165555_length_3826_cov_20.0000	3826	Low-quality	4.85	AAI-based (medium-confidence)	29.17	
+k141_166314_length_3029_cov_94.3774	3029	Low-quality	3.55	HMM-based (lower-bound)	0	
+k141_166328_length_4901_cov_10.0000	4901	Low-quality	12.59	AAI-based (high-confidence)	0	
+k141_168437_length_3067_cov_9.0000	3067	Low-quality	6.48	AAI-based (medium-confidence)	0	
+k141_168570_length_1438_cov_48.6153	1438	Low-quality	2.59	HMM-based (lower-bound)	0	
+k141_169270_length_2185_cov_32.0000	2185	Not-determined	NA	NA	0	no viral genes detected
+k141_169593_length_1971_cov_144.1781	1971	Low-quality	4.18	AAI-based (medium-confidence)	0	no viral genes detected
+k141_16974_length_2444_cov_8.0000	2444	Low-quality	5.29	AAI-based (high-confidence)	0	
+k141_169923_length_18882_cov_18.2416_fragment_1	13233	Low-quality	32.35	AAI-based (medium-confidence)	0	
+k141_170333_length_2235_cov_156.0664	2235	Low-quality	6.73	AAI-based (medium-confidence)	0	
+k141_171039_length_3931_cov_21.0000	3931	Not-determined	NA	NA	0	no viral genes detected
+k141_171896_length_1240_cov_11.0000	1240	Not-determined	NA	NA	0	no viral genes detected
+k141_172223_length_24486_cov_56.0000	24486	Low-quality	40.26	AAI-based (medium-confidence)	0	
+k141_172693_length_16385_cov_108.0806	16385	Not-determined	NA	NA	0	no viral genes detected
+k141_173793_length_2419_cov_94.0694	2419	Low-quality	4.61	AAI-based (medium-confidence)	0	
+k141_17540_length_5046_cov_24.0000	5046	Low-quality	9.99	AAI-based (high-confidence)	0	
+k141_175641_length_1846_cov_30.0106	1846	Low-quality	2.07	HMM-based (lower-bound)	0	
+k141_176599_length_13613_cov_42.9998	13613	Low-quality	19.43	AAI-based (high-confidence)	0	
+k141_176849_length_3199_cov_7.0000	3199	Not-determined	NA	NA	0	no viral genes detected
+k141_17733_length_2205_cov_31.0000	2205	Low-quality	4.48	HMM-based (lower-bound)	0	
+k141_177681_length_3965_cov_21.0000	3965	Low-quality	7.22	AAI-based (medium-confidence)	0	
+k141_179323_length_2125_cov_21.0000	2125	Low-quality	4.23	AAI-based (high-confidence)	0	
+k141_179358_length_3472_cov_20.0000	3472	Not-determined	NA	NA	0	no viral genes detected
+k141_180403_length_4189_cov_13.0000	4189	Low-quality	6.85	HMM-based (lower-bound)	0	
+k141_181229_length_1607_cov_4.0000	1607	Low-quality	2.31	AAI-based (high-confidence)	0	
+k141_181442_length_7140_cov_183.4212	7140	Low-quality	9.45	HMM-based (lower-bound)	0	
+k141_181741_length_25126_cov_68.0329	25126	Medium-quality	55.09	AAI-based (medium-confidence)	0	
+k141_181880_length_1786_cov_9.0000	1786	Low-quality	3.35	AAI-based (medium-confidence)	0	
+k141_182786_length_1783_cov_7.0000	1783	Low-quality	4.27	AAI-based (high-confidence)	0	
+k141_182945_length_6449_cov_83.5980	6449	Low-quality	12.87	AAI-based (medium-confidence)	0	
+k141_18328_length_2826_cov_9.0000	2826	Low-quality	5.18	HMM-based (lower-bound)	0	
+k141_184321_length_4528_cov_30.4267	4528	Low-quality	10.13	HMM-based (lower-bound)	0	
+k141_18462_length_3885_cov_18.0000	3885	Low-quality	4.21	HMM-based (lower-bound)	0	
+k141_184795_length_5513_cov_24.0000	5513	Not-determined	NA	NA	0	no viral genes detected
+k141_184828_length_6625_cov_89.1936	6625	Low-quality	12.5	HMM-based (lower-bound)	0	
+k141_184910_length_29271_cov_11.0000	29271	Medium-quality	75.25	AAI-based (medium-confidence)	0	
+k141_186189_length_4074_cov_18.0000	4074	Low-quality	4.02	AAI-based (medium-confidence)	0	
+k141_186538_length_4494_cov_34.0000	4494	Low-quality	5.32	HMM-based (lower-bound)	34.45	
+k141_186916_length_6884_cov_53.1953	6884	Low-quality	17.13	AAI-based (medium-confidence)	0	
+k141_187215_length_1900_cov_9.0000	1900	Low-quality	3.81	HMM-based (lower-bound)	0	
+k141_18722_length_8845_cov_77.4566	8845	Low-quality	19.67	AAI-based (medium-confidence)	0	
+k141_187236_length_2367_cov_9.0000	2367	Low-quality	3.08	HMM-based (lower-bound)	0	
+k141_187249_length_1150_cov_8.0000	1150	Low-quality	1.54	HMM-based (lower-bound)	0	
+k141_187851_length_2225_cov_11.0000	2225	Low-quality	1.55	HMM-based (lower-bound)	0	
+k141_187924_length_1878_cov_6.0000	1878	Low-quality	3.78	AAI-based (medium-confidence)	0	
+k141_187985_length_2695_cov_11.0000	2695	Low-quality	4.67	HMM-based (lower-bound)	0	
+k141_188555_length_4171_cov_12.0000	4171	Low-quality	9.62	AAI-based (medium-confidence)	0	
+k141_188567_length_1516_cov_7.0000	1516	Low-quality	3.58	AAI-based (medium-confidence)	0	
+k141_188901_length_4906_cov_75.4726	4906	Low-quality	8.58	HMM-based (lower-bound)	0	
+k141_189596_length_3983_cov_59.3077	3983	Low-quality	6.53	HMM-based (lower-bound)	0	
+k141_1902_length_2780_cov_32.0000	2780	Low-quality	4.16	AAI-based (medium-confidence)	0	
+k141_190266_length_3070_cov_9.0000	3070	Low-quality	5.39	AAI-based (medium-confidence)	0	
+k141_191373_length_1405_cov_29.7706	1405	Low-quality	3.3	AAI-based (high-confidence)	0	
+k141_192428_length_1068_cov_16.0000	1068	Low-quality	2.19	AAI-based (high-confidence)	0	
+k141_192850_length_15732_cov_14.9991	15732	Low-quality	31.94	AAI-based (medium-confidence)	0	
+k141_19370_length_5112_cov_9.0000	5112	Low-quality	12.55	AAI-based (high-confidence)	0	
+k141_193833_length_2307_cov_100.1062	2307	Low-quality	5.73	AAI-based (high-confidence)	0	
+k141_19419_length_2004_cov_10.0000	2004	Low-quality	2.65	HMM-based (lower-bound)	0	
+k141_194913_length_2678_cov_25.2988	2678	Low-quality	5.63	AAI-based (medium-confidence)	0	
+k141_196449_length_1895_cov_13.0000	1895	Low-quality	5.92	AAI-based (medium-confidence)	0	
+k141_197077_length_23645_cov_22.0000	23645	Medium-quality	62.5	AAI-based (medium-confidence)	0	
+k141_197694_length_2334_cov_10.0000	2334	Low-quality	5.8	AAI-based (medium-confidence)	0	
+k141_197729_length_2873_cov_10.0000	2873	Low-quality	6.4	AAI-based (medium-confidence)	0	no viral genes detected
+k141_198557_length_2851_cov_20.0000	2851	Low-quality	6.75	AAI-based (high-confidence)	0	no viral genes detected
+k141_198749_length_1603_cov_28.0000	1603	Low-quality	3.39	HMM-based (lower-bound)	0	
+k141_19918_length_1428_cov_53.6364	1428	Low-quality	2.86	AAI-based (medium-confidence)	0	
+k141_199329_length_3053_cov_11.0000	3053	Low-quality	6.56	AAI-based (medium-confidence)	0	
+k141_199358_length_2374_cov_15.0000	2374	Low-quality	4.78	AAI-based (medium-confidence)	0	no viral genes detected
+k141_20001_length_1482_cov_29.0000	1482	Low-quality	1.55	AAI-based (high-confidence)	0	
+k141_200571_length_4116_cov_59.1849	4116	Not-determined	NA	NA	0	no viral genes detected
+k141_202128_length_3277_cov_65.0360	3277	Not-determined	NA	NA	0	no viral genes detected
+k141_202310_length_5808_cov_1268.1803	5808	Low-quality	10.72	HMM-based (lower-bound)	0	
+k141_202336_length_9140_cov_213.4622	9140	Low-quality	12.02	AAI-based (medium-confidence)	0	
+k141_203778_length_64248_cov_37.1169	64248	Complete	100	DTR (high-confidence)	0	
+k141_204289_length_8641_cov_12.0000	8641	Low-quality	14.96	AAI-based (medium-confidence)	0	
+k141_204320_length_1268_cov_6.0000	1268	Low-quality	8.48	AAI-based (medium-confidence)	0	no viral genes detected
+k141_205130_length_2147_cov_83.0000	2147	Low-quality	3.45	HMM-based (lower-bound)	0	
+k141_205377_length_2526_cov_29.0000	2526	Low-quality	5.9	AAI-based (high-confidence)	0	
+k141_206044_length_3112_cov_8.0000	3112	Low-quality	6	AAI-based (medium-confidence)	0	no viral genes detected
+k141_206380_length_4797_cov_17.5088	4797	Low-quality	10.9	AAI-based (medium-confidence)	0	
+k141_206936_length_10066_cov_8.0000	10066	Low-quality	18.56	AAI-based (medium-confidence)	0	
+k141_207202_length_1853_cov_7.0000	1853	Low-quality	4.06	AAI-based (high-confidence)	0	
+k141_207823_length_2993_cov_36.1448	2993	Low-quality	6.61	HMM-based (lower-bound)	0	
+k141_208948_length_1237_cov_6.0000	1237	Low-quality	1.07	AAI-based (medium-confidence)	0	
+k141_208995_length_2297_cov_55.0867	2297	Low-quality	5.46	AAI-based (medium-confidence)	0	
+k141_209180_length_3667_cov_30.0000	3667	Not-determined	NA	NA	0	no viral genes detected
+k141_209189_length_11214_cov_384.6468	11214	Not-determined	NA	NA	0	no viral genes detected
+k141_209533_length_1607_cov_11.0000	1607	Low-quality	3.34	AAI-based (medium-confidence)	0	
+k141_209556_length_19712_cov_49.1941	19712	Medium-quality	50.33	AAI-based (medium-confidence)	0	
+k141_210588_length_24463_cov_20.2876	24463	Medium-quality	61.83	AAI-based (medium-confidence)	0	
+k141_210667_length_4630_cov_70.1123	4630	Low-quality	6.51	HMM-based (lower-bound)	0	
+k141_211349_length_2177_cov_10.0000	2177	Low-quality	3.14	HMM-based (lower-bound)	0	
+k141_212514_length_8987_cov_13.0000	8987	Low-quality	6.1	HMM-based (lower-bound)	0	
+k141_212973_length_1498_cov_26.1363	1498	Low-quality	4.7	AAI-based (medium-confidence)	0	no viral genes detected
+k141_213633_length_2311_cov_6.0000	2311	Low-quality	5.54	AAI-based (high-confidence)	0	
+k141_214842_length_1703_cov_159.0000	1703	Low-quality	4.99	AAI-based (high-confidence)	0	
+k141_215136_length_13867_cov_73.9850	13867	Low-quality	23.26	HMM-based (lower-bound)	0	
+k141_215282_length_2138_cov_17.0000	2138	Low-quality	5.03	AAI-based (high-confidence)	0	
+k141_215568_length_11194_cov_14.3166	11194	Not-determined	NA	NA	0	no viral genes detected
+k141_215903_length_2975_cov_9.0000	2975	Low-quality	1.98	AAI-based (high-confidence)	0	
+k141_216270_length_2095_cov_23.0716	2095	Low-quality	5.28	AAI-based (medium-confidence)	0	
+k141_21752_length_29629_cov_56.9744	29629	Medium-quality	68.56	AAI-based (medium-confidence)	0	
+k141_217653_length_1534_cov_26.0000	1534	Low-quality	0.82	HMM-based (lower-bound)	0	
+k141_217766_length_3924_cov_51.7402	3924	Low-quality	8.93	AAI-based (medium-confidence)	0	
+k141_218126_length_6607_cov_12.0000	6607	Low-quality	15.49	AAI-based (high-confidence)	0	
+k141_219842_length_2413_cov_21.0000	2413	Low-quality	1.07	HMM-based (lower-bound)	0	
+k141_219893_length_2092_cov_13.0000	2092	Low-quality	3.97	HMM-based (lower-bound)	0	
+k141_21997_length_2655_cov_14.0000	2655	Low-quality	0.86	HMM-based (lower-bound)	0	
+k141_220741_length_3186_cov_18.0000	3186	Low-quality	5.93	AAI-based (medium-confidence)	0	no viral genes detected
+k141_22132_length_10902_cov_422.6214	10902	Not-determined	NA	NA	0	no viral genes detected
+k141_221979_length_1424_cov_17.0000	1424	Low-quality	2.86	AAI-based (high-confidence)	0	
+k141_222039_length_5712_cov_31.1298	5712	Low-quality	13.94	AAI-based (medium-confidence)	0	
+k141_222341_length_2508_cov_12.0000	2508	Not-determined	NA	NA	0	no viral genes detected
+k141_222622_length_14086_cov_80.8504	14086	Low-quality	24.49	HMM-based (lower-bound)	0	
+k141_222800_length_3912_cov_145.8266	3912	Not-determined	NA	NA	0	no viral genes detected
+k141_223241_length_4432_cov_22.2757	4432	Low-quality	4.02	HMM-based (lower-bound)	0	
+k141_22357_length_1462_cov_9.0000	1462	Low-quality	1.31	HMM-based (lower-bound)	0	
+k141_22501_length_7827_cov_76.8323	7827	Low-quality	18.47	AAI-based (medium-confidence)	0	
+k141_225241_length_1170_cov_22.0000	1170	Low-quality	2.25	AAI-based (high-confidence)	0	
+k141_226084_length_2079_cov_41.0000	2079	Not-determined	NA	NA	0	no viral genes detected
+k141_226830_length_3620_cov_44.0149	3620	Low-quality	2.44	HMM-based (lower-bound)	0	
+k141_227528_length_2629_cov_8.0000	2629	Low-quality	7.68	AAI-based (high-confidence)	0	
+k141_229256_length_6217_cov_36.0000	6217	Low-quality	15.5	AAI-based (high-confidence)	0	
+k141_229525_length_1531_cov_6.0000	1531	Low-quality	1.14	HMM-based (lower-bound)	0	
+k141_229897_length_4165_cov_23.0522	4165	Low-quality	4.78	HMM-based (lower-bound)	29.77	
+k141_231026_length_1494_cov_7.0015	1494	Low-quality	2.95	AAI-based (high-confidence)	0	
+k141_231783_length_6237_cov_10.0000	6237	Low-quality	12.41	HMM-based (lower-bound)	0	
+k141_23216_length_3219_cov_54.4113	3219	Low-quality	7.44	AAI-based (medium-confidence)	0	
+k141_2336_length_21366_cov_23.0000	21366	Medium-quality	56.57	AAI-based (medium-confidence)	0	
+k141_233774_length_4833_cov_11.0000	4833	Not-determined	NA	NA	0	no viral genes detected
+k141_233839_length_5761_cov_113.5641	5761	Not-determined	NA	NA	0	no viral genes detected
+k141_234085_length_10420_cov_8.0000	10420	Low-quality	15.04	AAI-based (medium-confidence)	0	
+k141_234572_length_6174_cov_13.0000	6174	Low-quality	2.13	HMM-based (lower-bound)	0	
+k141_234787_length_6966_cov_23.0015	6966	Not-determined	NA	NA	0	no viral genes detected
+k141_235116_length_1410_cov_8.0000	1410	Low-quality	2.51	HMM-based (lower-bound)	0	
+k141_235637_length_2457_cov_24.0000	2457	Low-quality	4.62	AAI-based (medium-confidence)	0	
+k141_236735_length_1614_cov_31.0000	1614	Low-quality	0.97	HMM-based (lower-bound)	0	
+k141_236802_length_2349_cov_10.0036	2349	Low-quality	2.45	AAI-based (medium-confidence)	0	
+k141_23846_length_10560_cov_83.0000	10560	Not-determined	NA	NA	0	no viral genes detected
+k141_23857_length_5908_cov_51.5499	5908	Low-quality	15.21	AAI-based (medium-confidence)	0	
+k141_240276_length_4291_cov_14.0000	4291	Not-determined	NA	NA	0	no viral genes detected
+k141_240307_length_2079_cov_36.0000	2079	Low-quality	2.74	AAI-based (medium-confidence)	0	
+k141_240331_length_2535_cov_64.2828	2535	Low-quality	5.86	AAI-based (medium-confidence)	0	
+k141_240891_length_2483_cov_82.3271	2483	Low-quality	5.74	AAI-based (medium-confidence)	0	
+k141_243930_length_7647_cov_183.9619	7647	Low-quality	17.67	AAI-based (high-confidence)	0	
+k141_244876_length_1385_cov_11.0000	1385	Low-quality	3.54	AAI-based (high-confidence)	0	
+k141_24564_length_4667_cov_13.0000	4667	Low-quality	1.65	HMM-based (lower-bound)	0	
+k141_246500_length_7278_cov_27.0000	7278	Low-quality	13.71	AAI-based (high-confidence)	0	
+k141_246871_length_2899_cov_124.6149	2899	Not-determined	NA	NA	0	no viral genes detected
+k141_248291_length_3671_cov_15.0000	3671	Low-quality	5.28	HMM-based (lower-bound)	0	
+k141_24890_length_1798_cov_24.0000	1798	Not-determined	NA	NA	0	no viral genes detected
+k141_249366_length_1544_cov_10.0000	1544	Low-quality	3.2	AAI-based (medium-confidence)	0	
+k141_249829_length_12651_cov_14.0000	12651	Low-quality	4.26	HMM-based (lower-bound)	0	
+k141_250213_length_6860_cov_263.0481	6860	Low-quality	14.85	AAI-based (medium-confidence)	0	
+k141_251177_length_1879_cov_13.0000	1879	Not-determined	NA	NA	0	no viral genes detected
+k141_251391_length_2028_cov_52.0000	2028	Low-quality	4.2	HMM-based (lower-bound)	0	
+k141_251497_length_5281_cov_13.0000	5281	Not-determined	NA	NA	0	no viral genes detected
+k141_251769_length_9965_cov_20.0000	9965	Low-quality	3.44	HMM-based (lower-bound)	0	
+k141_251792_length_3651_cov_37.0655	3651	Low-quality	6.35	AAI-based (medium-confidence)	0	
+k141_253808_length_7571_cov_59.0000	7571	Low-quality	11.94	HMM-based (lower-bound)	0	
+k141_256222_length_7913_cov_27.6256	7913	Low-quality	15.02	AAI-based (medium-confidence)	0	
+k141_256357_length_3188_cov_80.7653	3188	Low-quality	5.31	HMM-based (lower-bound)	0	
+k141_256404_length_1135_cov_8.0000	1135	Low-quality	1.63	AAI-based (high-confidence)	0	
+k141_259041_length_4429_cov_57.4713	4429	Low-quality	3.26	HMM-based (lower-bound)	0	
+k141_259500_length_10060_cov_230.1422	10060	Low-quality	17.69	AAI-based (medium-confidence)	0	
+k141_259616_length_1296_cov_12.0000	1296	Low-quality	0.79	HMM-based (lower-bound)	0	
+k141_259865_length_1261_cov_14.0000	1261	Low-quality	2.68	AAI-based (medium-confidence)	0	
+k141_260869_length_2760_cov_19.9492	2760	Low-quality	7.17	AAI-based (medium-confidence)	0	
+k141_261150_length_2243_cov_71.2688	2243	Low-quality	4.38	AAI-based (medium-confidence)	0	no viral genes detected
+k141_261558_length_1970_cov_8.0000	1970	Low-quality	6.62	AAI-based (high-confidence)	0	
+k141_26188_length_6820_cov_94.1328	6820	Not-determined	NA	NA	0	no viral genes detected
+k141_261976_length_1827_cov_12.0000	1827	Low-quality	3.69	AAI-based (high-confidence)	0	no viral genes detected
+k141_26248_length_2702_cov_10.0000	2702	Low-quality	6.31	AAI-based (medium-confidence)	0	
+k141_262486_length_7126_cov_10.0000	7126	Low-quality	9.95	HMM-based (lower-bound)	0	
+k141_263424_length_1931_cov_19.0000	1931	Low-quality	2.41	HMM-based (lower-bound)	0	
+k141_263563_length_4102_cov_15.0000	4102	Low-quality	8.63	AAI-based (high-confidence)	0	
+k141_264375_length_5763_cov_129.1754	5763	Low-quality	8.6	AAI-based (medium-confidence)	41.51	
+k141_264390_length_6984_cov_91.9909	6984	Not-determined	NA	NA	0	no viral genes detected
+k141_264645_length_1678_cov_28.0000	1678	Low-quality	3.27	HMM-based (lower-bound)	0	
+k141_265206_length_3508_cov_9.0000	3508	Low-quality	8.87	AAI-based (high-confidence)	0	
+k141_265417_length_3789_cov_15.0000	3789	Not-determined	NA	NA	0	no viral genes detected
+k141_266771_length_3962_cov_7.0000	3962	Low-quality	10.76	AAI-based (high-confidence)	0	
+k141_267390_length_11614_cov_18.0000	11614	Low-quality	10.56	HMM-based (lower-bound)	0	
+k141_267478_length_1644_cov_90.9421	1644	Low-quality	3.51	AAI-based (medium-confidence)	0	no viral genes detected
+k141_267826_length_2665_cov_67.6438	2665	Low-quality	4	AAI-based (medium-confidence)	0	
+k141_268147_length_3024_cov_8.0000	3024	Low-quality	7.04	AAI-based (medium-confidence)	0	
+k141_268547_length_2847_cov_21.0000	2847	Not-determined	NA	NA	0	no viral genes detected
+k141_268549_length_2338_cov_21.0000	2338	Low-quality	3.73	HMM-based (lower-bound)	0	
+k141_268669_length_10007_cov_205.4810	10007	Low-quality	24.05	AAI-based (medium-confidence)	0	
+k141_268855_length_3535_cov_223.8421	3535	Low-quality	3.85	AAI-based (medium-confidence)	0	
+k141_269416_length_2071_cov_9.0000	2071	Low-quality	3.92	AAI-based (high-confidence)	0	
+k141_270807_length_2678_cov_17.0000	2678	Low-quality	4.56	AAI-based (medium-confidence)	0	
+k141_272099_length_8359_cov_57.2513	8359	Low-quality	19.78	AAI-based (high-confidence)	0	
+k141_272563_length_2586_cov_144.2552	2586	Low-quality	2.71	HMM-based (lower-bound)	0	
+k141_274133_length_1174_cov_18.0000	1174	Low-quality	1.15	HMM-based (lower-bound)	0	
+k141_274551_length_3313_cov_32.6671	3313	Low-quality	5.57	AAI-based (medium-confidence)	0	
+k141_274851_length_3381_cov_17.8846	3381	Low-quality	7.03	AAI-based (medium-confidence)	0	no viral genes detected
+k141_275648_length_13838_cov_16.0000	13838	Low-quality	5.11	HMM-based (lower-bound)	0	
+k141_27582_length_4124_cov_16.0000	4124	Low-quality	4.38	HMM-based (lower-bound)	0	
+k141_277302_length_2330_cov_17.0000	2330	Low-quality	5.84	AAI-based (high-confidence)	0	
+k141_277357_length_2378_cov_7.0000	2378	Low-quality	5.8	AAI-based (medium-confidence)	0	
+k141_278215_length_2309_cov_22.3801	2309	Low-quality	4.88	AAI-based (medium-confidence)	0	
+k141_27852_length_2972_cov_15.0000	2972	Low-quality	7.12	AAI-based (high-confidence)	0	
+k141_278756_length_2467_cov_29.0000	2467	Low-quality	1.66	HMM-based (lower-bound)	0	
+k141_279492_length_9849_cov_102.7391	9849	Low-quality	25.33	AAI-based (medium-confidence)	0	
+k141_279547_length_39342_cov_40.9946	39342	High-quality	96	AAI-based (medium-confidence)	0	
+k141_28013_length_4119_cov_24.0000	4119	Low-quality	9.44	AAI-based (high-confidence)	0	
+k141_280734_length_3881_cov_14.0000	3881	Low-quality	5.57	HMM-based (lower-bound)	0	
+k141_280804_length_2230_cov_28.0981	2230	Low-quality	5.68	AAI-based (medium-confidence)	0	
+k141_281703_length_14352_cov_118.7924	14352	Low-quality	28.59	AAI-based (medium-confidence)	0	
+k141_282609_length_1008_cov_11.0000	1008	Low-quality	2.1	AAI-based (high-confidence)	0	
+k141_285094_length_2301_cov_80.9792	2301	Low-quality	3.93	HMM-based (lower-bound)	0	
+k141_287001_length_8026_cov_23.0000	8026	Low-quality	25.48	AAI-based (medium-confidence)	0	
+k141_287757_length_25889_cov_52.6992	25889	Not-determined	NA	NA	0	no viral genes detected
+k141_288702_length_3306_cov_40.9494	3306	Low-quality	9.51	AAI-based (medium-confidence)	0	low-confidence DTR
+k141_289232_length_5155_cov_25.0000	5155	Not-determined	NA	NA	0	no viral genes detected
+k141_289529_length_14427_cov_50.1243	14427	Low-quality	29.91	AAI-based (medium-confidence)	0	
+k141_289854_length_3550_cov_19.0000	3550	Low-quality	8.45	AAI-based (high-confidence)	0	
+k141_290518_length_3607_cov_42.4025	3607	Low-quality	7.93	AAI-based (medium-confidence)	0	
+k141_292007_length_11837_cov_19.9878	11837	Low-quality	13.78	HMM-based (lower-bound)	0	
+k141_292026_length_2179_cov_21.0000	2179	Low-quality	3.03	HMM-based (lower-bound)	0	
+k141_292527_length_3455_cov_117.9285	3455	Low-quality	8.19	AAI-based (medium-confidence)	0	
+k141_292653_length_2533_cov_13.3269	2533	Low-quality	3.92	AAI-based (medium-confidence)	0	
+k141_293018_length_2363_cov_20.7903	2363	Low-quality	5.73	AAI-based (medium-confidence)	0	
+k141_29340_length_2759_cov_7.0000	2759	Low-quality	4.37	AAI-based (high-confidence)	0	
+k141_29399_length_1895_cov_26.1739	1895	Low-quality	4.14	AAI-based (medium-confidence)	0	no viral genes detected
+k141_294875_length_6342_cov_18.0000	6342	Low-quality	2.56	AAI-based (medium-confidence)	0	
+k141_296_length_4745_cov_12.0000	4745	Low-quality	9.09	HMM-based (lower-bound)	0	
+k141_296539_length_184130_cov_25.4936_fragment_2	37810	High-quality	100	AAI-based (high-confidence)	0	
+k141_296861_length_25489_cov_79.9022	25489	Low-quality	10.45	HMM-based (lower-bound)	64.23	
+k141_29809_length_2318_cov_63.3192	2318	Low-quality	4.74	AAI-based (medium-confidence)	0	
+k141_300069_length_4316_cov_11.0000	4316	Low-quality	9.3	AAI-based (high-confidence)	0	
+k141_30020_length_1245_cov_11.0000	1245	Low-quality	1.94	AAI-based (medium-confidence)	0	
+k141_301712_length_1824_cov_45.0000	1824	Low-quality	4.04	AAI-based (medium-confidence)	0	
+k141_30217_length_1117_cov_23.0000	1117	Low-quality	0.91	AAI-based (medium-confidence)	0	
+k141_302746_length_1541_cov_6.0000	1541	Low-quality	2.73	AAI-based (medium-confidence)	0	
+k141_304271_length_5172_cov_11.0000	5172	Low-quality	6.51	HMM-based (lower-bound)	0	
+k141_304440_length_1785_cov_6.0000	1785	Low-quality	5.36	AAI-based (high-confidence)	0	
+k141_304919_length_19078_cov_84.8268	19078	Low-quality	1.64	AAI-based (medium-confidence)	0	no viral genes detected
+k141_305024_length_8515_cov_404.0000	8515	Low-quality	8.09	AAI-based (medium-confidence)	0	no viral genes detected; low-confidence DTR
+k141_306249_length_5178_cov_9.0000	5178	Low-quality	13.22	AAI-based (high-confidence)	0	
+k141_307988_length_2944_cov_49.0000	2944	Low-quality	27.45	HMM-based (lower-bound)	0	
+k141_310284_length_2314_cov_68.0603	2314	Low-quality	3.45	HMM-based (lower-bound)	0	
+k141_310431_length_4611_cov_68.9121	4611	Low-quality	11.59	AAI-based (high-confidence)	0	
+k141_310451_length_1262_cov_19.0000	1262	Low-quality	2.58	AAI-based (high-confidence)	0	
+k141_310639_length_3717_cov_12.0000	3717	Low-quality	7.34	AAI-based (high-confidence)	0	no viral genes detected
+k141_311397_length_3160_cov_11.0000	3160	Low-quality	6.58	AAI-based (medium-confidence)	0	
+k141_311609_length_4730_cov_13.0000	4730	Low-quality	1.81	AAI-based (medium-confidence)	0	
+k141_312056_length_1748_cov_13.0000	1748	Low-quality	4.04	AAI-based (medium-confidence)	0	
+k141_312191_length_1855_cov_10.0000	1855	Low-quality	4.89	AAI-based (medium-confidence)	0	
+k141_312596_length_6397_cov_123.0527	6397	Low-quality	15.52	AAI-based (high-confidence)	0	
+k141_314490_length_2412_cov_7.0000	2412	Low-quality	4.95	AAI-based (high-confidence)	0	
+k141_314693_length_2304_cov_13.0000	2304	Low-quality	1.26	AAI-based (medium-confidence)	0	
+k141_315119_length_2008_cov_60.8704	2008	Not-determined	NA	NA	0	no viral genes detected
+k141_315257_length_4399_cov_11.0000	4399	Low-quality	9.86	AAI-based (high-confidence)	0	
+k141_316877_length_2157_cov_9.0000	2157	Low-quality	1.56	HMM-based (lower-bound)	0	
+k141_316883_length_3087_cov_51.8028	3087	Low-quality	7.7	AAI-based (medium-confidence)	0	
+k141_317470_length_1173_cov_19.8876	1173	Low-quality	1.94	HMM-based (lower-bound)	0	
+k141_318569_length_3162_cov_18.0000	3162	Low-quality	3.35	AAI-based (medium-confidence)	0	
+k141_318757_length_20099_cov_54.4369	20099	Medium-quality	50.28	AAI-based (medium-confidence)	0	
+k141_31954_length_2163_cov_13.0000	2163	Not-determined	NA	NA	0	no viral genes detected
+k141_320213_length_5625_cov_6.0000	5625	Low-quality	12.74	AAI-based (medium-confidence)	0	
+k141_32042_length_18766_cov_12.9902	18766	Medium-quality	55.77	AAI-based (medium-confidence)	0	
+k141_320488_length_1767_cov_31.0000	1767	Low-quality	3.37	AAI-based (medium-confidence)	0	
+k141_321251_length_11853_cov_30.0000	11853	Low-quality	0.99	HMM-based (lower-bound)	0	
+k141_321687_length_4408_cov_22.0000	4408	Low-quality	4.98	HMM-based (lower-bound)	0	
+k141_321897_length_1588_cov_9.0000	1588	Low-quality	3.64	AAI-based (medium-confidence)	0	
+k141_322221_length_4660_cov_15.0000	4660	Low-quality	1.58	HMM-based (lower-bound)	0	
+k141_322253_length_8212_cov_23.0000	8212	Low-quality	18.51	AAI-based (medium-confidence)	0	
+k141_322656_length_5474_cov_31.5907	5474	Not-determined	NA	NA	0	no viral genes detected
+k141_323237_length_1231_cov_5.0000	1231	Low-quality	1.83	AAI-based (medium-confidence)	0	
+k141_323573_length_1440_cov_22.0000	1440	Not-determined	NA	NA	0	no viral genes detected
+k141_32385_length_2010_cov_10.0000	2010	Low-quality	4.3	AAI-based (medium-confidence)	0	
+k141_325012_length_1408_cov_5.0000	1408	Low-quality	2.63	AAI-based (medium-confidence)	0	
+k141_325037_length_7516_cov_26.0000	7516	Low-quality	15.67	AAI-based (medium-confidence)	0	
+k141_325318_length_4377_cov_11.0000	4377	Low-quality	11.19	AAI-based (medium-confidence)	0	
+k141_325579_length_1723_cov_7.0000	1723	Not-determined	NA	NA	0	no viral genes detected
+k141_325752_length_2619_cov_9.0000	2619	Low-quality	4.22	AAI-based (medium-confidence)	0	
+k141_327689_length_2506_cov_24.0000	2506	Low-quality	5.59	AAI-based (medium-confidence)	0	
+k141_327885_length_2145_cov_15.0000	2145	Low-quality	6.36	AAI-based (medium-confidence)	0	
+k141_329658_length_6379_cov_61.0592	6379	Not-determined	NA	NA	0	no viral genes detected
+k141_329962_length_6271_cov_92.4591	6271	Low-quality	10.47	HMM-based (lower-bound)	0	
+k141_329985_length_1678_cov_58.3474	1678	Low-quality	3.81	AAI-based (medium-confidence)	0	
+k141_331814_length_2993_cov_28.0000	2993	Low-quality	6.8	AAI-based (high-confidence)	0	
+k141_332662_length_2780_cov_15.0000	2780	Low-quality	0.23	HMM-based (lower-bound)	0	
+k141_333117_length_20883_cov_16.0000	20883	Medium-quality	73.14	AAI-based (medium-confidence)	0	
+k141_333303_length_3121_cov_9.0000	3121	Low-quality	6.5	AAI-based (high-confidence)	0	
+k141_333565_length_1423_cov_4.0000	1423	Low-quality	1.79	HMM-based (lower-bound)	0	
+k141_335619_length_7008_cov_11.0000	7008	Low-quality	11.38	HMM-based (lower-bound)	0	
+k141_336030_length_4042_cov_9.0000	4042	Low-quality	1.98	HMM-based (lower-bound)	0	
+k141_336791_length_6776_cov_101.4660	6776	Low-quality	18.56	AAI-based (medium-confidence)	0	
+k141_338745_length_6082_cov_30.0000	6082	Low-quality	12.62	AAI-based (high-confidence)	0	
+k141_339422_length_3942_cov_8.0000	3942	Not-determined	NA	NA	0	no viral genes detected
+k141_340387_length_3004_cov_14.0000	3004	Low-quality	3.88	AAI-based (medium-confidence)	0	
+k141_340609_length_2215_cov_10.0000	2215	Low-quality	4.75	AAI-based (medium-confidence)	0	
+k141_341025_length_12485_cov_33.7528	12485	Not-determined	NA	NA	0	no viral genes detected
+k141_341131_length_5548_cov_26.3958	5548	Not-determined	NA	NA	0	no viral genes detected
+k141_341867_length_26120_cov_148.8603_fragment_1	3143	Low-quality	2.91	AAI-based (medium-confidence)	0	
+k141_342293_length_3134_cov_7.0000	3134	Low-quality	1.33	HMM-based (lower-bound)	0	
+k141_343193_length_545652_cov_477.4362_fragment_1	50524	High-quality	100	AAI-based (high-confidence)	9.02	
+k141_343981_length_5131_cov_8.0000	5131	Low-quality	5.33	AAI-based (medium-confidence)	45.86	
+k141_344527_length_2669_cov_55.4221	2669	Low-quality	3.12	HMM-based (lower-bound)	0	
+k141_344943_length_7510_cov_21.0000	7510	Low-quality	18.14	AAI-based (medium-confidence)	0	
+k141_345193_length_2725_cov_13.0000	2725	Low-quality	3.07	HMM-based (lower-bound)	0	
+k141_345635_length_4019_cov_19.0000	4019	Low-quality	10.75	AAI-based (high-confidence)	0	
+k141_345865_length_3060_cov_36.0665	3060	Low-quality	5.31	HMM-based (lower-bound)	0	
+k141_345922_length_2634_cov_76.1364	2634	Not-determined	NA	NA	0	no viral genes detected
+k141_345945_length_2523_cov_12.0000	2523	Low-quality	6.19	AAI-based (high-confidence)	0	
+k141_346046_length_15044_cov_18.8058	15044	Not-determined	NA	NA	0	no viral genes detected
+k141_346095_length_3424_cov_15.0000	3424	Low-quality	6.5	AAI-based (medium-confidence)	0	
+k141_34671_length_1843_cov_68.1545	1843	Low-quality	2.79	HMM-based (lower-bound)	0	
+k141_346826_length_2120_cov_52.6271	2120	Low-quality	4.49	AAI-based (medium-confidence)	0	
+k141_347769_length_1573_cov_25.0000	1573	Low-quality	0.98	HMM-based (lower-bound)	0	
+k141_3486_length_1095_cov_15.0000	1095	Not-determined	NA	NA	0	no viral genes detected
+k141_348640_length_4065_cov_97.4529	4065	Low-quality	8.27	AAI-based (medium-confidence)	0	
+k141_348933_length_2456_cov_9.0000	2456	Low-quality	3.53	HMM-based (lower-bound)	0	
+k141_349167_length_2261_cov_26.0000	2261	Low-quality	4.49	AAI-based (high-confidence)	0	
+k141_350151_length_2836_cov_14.0000	2836	Low-quality	6.63	AAI-based (medium-confidence)	0	no viral genes detected
+k141_352943_length_8375_cov_74.0225	8375	Low-quality	17.22	AAI-based (medium-confidence)	0	
+k141_353528_length_3804_cov_18.0000	3804	Low-quality	8.61	AAI-based (medium-confidence)	0	
+k141_354078_length_4475_cov_17.0000	4475	Low-quality	8.23	AAI-based (medium-confidence)	0	
+k141_35434_length_9210_cov_92.5965	9210	Low-quality	7.26	HMM-based (lower-bound)	34.93	
+k141_354621_length_4901_cov_24.0000	4901	Low-quality	10.17	AAI-based (high-confidence)	0	
+k141_355085_length_3322_cov_9.0000	3322	Low-quality	7.4	AAI-based (high-confidence)	0	
+k141_355325_length_3159_cov_8.0000	3159	Medium-quality	53.82	AAI-based (high-confidence)	0	
+k141_355379_length_47829_cov_120.1681	47829	High-quality	100	AAI-based (medium-confidence)	0	
+k141_355918_length_37075_cov_25.3202	37075	Medium-quality	82.65	AAI-based (high-confidence)	0	
+k141_356382_length_23313_cov_48.6010	23313	Low-quality	34.19	HMM-based (lower-bound)	0	
+k141_357074_length_6671_cov_617.0547	6671	Low-quality	36.37	AAI-based (medium-confidence)	0	
+k141_357201_length_1613_cov_24.0000	1613	Low-quality	2.35	HMM-based (lower-bound)	0	
+k141_357228_length_9151_cov_17.0000	9151	Low-quality	19.87	AAI-based (medium-confidence)	0	
+k141_357739_length_1266_cov_18.0000	1266	Low-quality	2.34	HMM-based (lower-bound)	0	
+k141_35785_length_2625_cov_18.2258	2625	Low-quality	2.61	HMM-based (lower-bound)	0	
+k141_358038_length_4985_cov_20.0000	4985	Low-quality	12.78	AAI-based (medium-confidence)	0	
+k141_35886_length_13662_cov_50.1410	13662	Low-quality	40.91	HMM-based (lower-bound)	0	
+k141_359089_length_1221_cov_13.0000	1221	Low-quality	3.12	AAI-based (medium-confidence)	0	no viral genes detected
+k141_359270_length_2967_cov_61.4183	2967	Low-quality	1.99	HMM-based (lower-bound)	0	
+k141_35998_length_2152_cov_11.0000	2152	Low-quality	4.08	AAI-based (medium-confidence)	0	
+k141_360013_length_43135_cov_44.6301	43135	Medium-quality	60.66	AAI-based (high-confidence)	0	
+k141_360986_length_13488_cov_15.0000	13488	Low-quality	46.6	AAI-based (medium-confidence)	0	
+k141_361784_length_1202_cov_21.0000	1202	Low-quality	2.4	AAI-based (medium-confidence)	0	no viral genes detected
+k141_362112_length_21530_cov_237.3777	21530	Medium-quality	50.95	AAI-based (high-confidence)	0	
+k141_362271_length_5124_cov_8.0000	5124	Low-quality	15.53	AAI-based (high-confidence)	0	
+k141_362918_length_2010_cov_18.9807	2010	Not-determined	NA	NA	0	no viral genes detected
+k141_364647_length_5428_cov_81.8901	5428	Low-quality	9.65	HMM-based (lower-bound)	0	
+k141_365549_length_7879_cov_9.0000	7879	Low-quality	3.15	HMM-based (lower-bound)	0	
+k141_367242_length_43418_cov_132.0031	43418	Complete	100	DTR (high-confidence)	0	
+k141_367837_length_43172_cov_173.8419	43172	Complete	100	DTR (high-confidence)	0	
+k141_368385_length_50634_cov_245.0049	50634	Complete	100	DTR (high-confidence)	0	
+k141_368540_length_10445_cov_255.2800	10445	Low-quality	17.51	HMM-based (lower-bound)	0	low-confidence DTR
+k141_368668_length_2208_cov_40.0000	2208	Low-quality	5.48	AAI-based (high-confidence)	0	
+k141_368875_length_9561_cov_38.0040	9561	Not-determined	NA	NA	0	no viral genes detected; low-confidence DTR
+k141_370043_length_6737_cov_23.6828	6737	Medium-quality	75.35	HMM-based (lower-bound)	0	low-confidence DTR
+k141_370555_length_7481_cov_18.0025	7481	Not-determined	NA	NA	0	no viral genes detected; low-confidence DTR
+k141_371806_length_3234_cov_100.9169	3234	Not-determined	NA	NA	0	no viral genes detected
+k141_371963_length_1191_cov_29.0000	1191	Low-quality	1.35	HMM-based (lower-bound)	0	
+k141_372988_length_2930_cov_15.0000	2930	Low-quality	1.01	HMM-based (lower-bound)	0	
+k141_37489_length_8875_cov_18.0829	8875	Low-quality	5.89	HMM-based (lower-bound)	0	
+k141_375215_length_1881_cov_11.0000	1881	Low-quality	5.2	AAI-based (medium-confidence)	0	
+k141_377149_length_5593_cov_78.0262	5593	Low-quality	6.76	HMM-based (lower-bound)	0	
+k141_377287_length_74056_cov_13.0000_fragment_1	43631	High-quality	100	AAI-based (medium-confidence)	0	
+k141_377632_length_1816_cov_25.0000	1816	Not-determined	NA	NA	0	no viral genes detected
+k141_379583_length_1522_cov_9.0000	1522	Low-quality	3.41	HMM-based (lower-bound)	0	
+k141_379796_length_2114_cov_38.0000	2114	Low-quality	3.68	HMM-based (lower-bound)	0	
+k141_380730_length_8286_cov_23.1109	8286	Low-quality	13.7	HMM-based (lower-bound)	0	
+k141_381143_length_14132_cov_42.0532	14132	Low-quality	16.58	HMM-based (lower-bound)	0	
+k141_381300_length_3699_cov_18.0000	3699	Low-quality	3.96	AAI-based (medium-confidence)	0	
+k141_382333_length_1003_cov_11.0000	1003	Low-quality	2.85	AAI-based (high-confidence)	0	
+k141_382348_length_1518_cov_25.0000	1518	Low-quality	3.77	AAI-based (high-confidence)	0	no viral genes detected
+k141_382786_length_4845_cov_11.0000	4845	Low-quality	9.02	HMM-based (lower-bound)	0	
+k141_383095_length_13827_cov_51.1897	13827	Low-quality	34.21	AAI-based (medium-confidence)	0	
+k141_384198_length_4914_cov_23.0000	4914	Low-quality	5.52	HMM-based (lower-bound)	0	
+k141_38449_length_1161_cov_16.0000	1161	Low-quality	2.69	AAI-based (high-confidence)	0	
+k141_384763_length_1718_cov_14.0000	1718	Not-determined	NA	NA	0	no viral genes detected
+k141_385507_length_4827_cov_15.0000	4827	Low-quality	9.59	AAI-based (medium-confidence)	0	
+k141_385524_length_5776_cov_2856.8172	5776	Low-quality	1.24	HMM-based (lower-bound)	0	low-confidence DTR
+k141_385855_length_2655_cov_6.0000	2655	Not-determined	NA	NA	0	no viral genes detected
+k141_386105_length_1536_cov_15.0000	1536	Low-quality	0.41	AAI-based (medium-confidence)	0	
+k141_386289_length_3740_cov_19.0000	3740	Low-quality	8.65	AAI-based (medium-confidence)	0	
+k141_387237_length_10567_cov_16.0000	10567	Low-quality	3.65	HMM-based (lower-bound)	0	
+k141_388789_length_24672_cov_20.0005	24672	Medium-quality	64.28	AAI-based (medium-confidence)	0	
+k141_391008_length_6140_cov_47.4764	6140	Low-quality	15.01	AAI-based (high-confidence)	0	
+k141_391138_length_1210_cov_74.8260	1210	Low-quality	2.48	AAI-based (medium-confidence)	0	
+k141_391478_length_6536_cov_15.0000	6536	Low-quality	18.74	HMM-based (lower-bound)	0	
+k141_391583_length_19105_cov_60.9917	19105	Medium-quality	54.01	AAI-based (high-confidence)	0	
+k141_392266_length_61023_cov_87.0317_fragment_2	11334	Low-quality	6.31	HMM-based (lower-bound)	0	
+k141_393554_length_2402_cov_11.0000	2402	Low-quality	3.14	HMM-based (lower-bound)	0	
+k141_394119_length_5014_cov_9.0000	5014	Low-quality	2.99	HMM-based (lower-bound)	0	
+k141_395564_length_5406_cov_51.3255	5406	Low-quality	4.83	HMM-based (lower-bound)	0	
+k141_396935_length_3086_cov_7.0000	3086	Low-quality	4.99	HMM-based (lower-bound)	0	
+k141_3970_length_16591_cov_85.0391	16591	Low-quality	42.11	AAI-based (medium-confidence)	0	
+k141_397368_length_1725_cov_63.7386	1725	Low-quality	4.24	AAI-based (medium-confidence)	0	
+k141_398039_length_2659_cov_10.0000	2659	Low-quality	5.59	AAI-based (medium-confidence)	0	
+k141_398839_length_18271_cov_25.9682	18271	Low-quality	46.99	AAI-based (medium-confidence)	0	
+k141_399281_length_2999_cov_5.0000	2999	Low-quality	5.79	AAI-based (medium-confidence)	0	
+k141_39999_length_2717_cov_11.0000	2717	Not-determined	NA	NA	0	no viral genes detected
+k141_400211_length_3211_cov_9.0000	3211	Low-quality	10.64	AAI-based (high-confidence)	0	
+k141_400601_length_4458_cov_26.0000	4458	Low-quality	9.87	AAI-based (high-confidence)	0	
+k141_400603_length_4486_cov_8.0000	4486	Low-quality	10.14	AAI-based (high-confidence)	0	
+k141_402194_length_3262_cov_36.0000	3262	Low-quality	6.66	AAI-based (high-confidence)	0	
+k141_403213_length_4277_cov_17.0000	4277	Low-quality	5.69	AAI-based (medium-confidence)	0	no viral genes detected
+k141_403634_length_2735_cov_16.0000	2735	Low-quality	4.48	HMM-based (lower-bound)	0	
+k141_404187_length_8701_cov_12.9692	8701	Low-quality	22.12	AAI-based (medium-confidence)	0	
+k141_404273_length_13284_cov_42.0000	13284	Low-quality	18.54	AAI-based (high-confidence)	0	
+k141_404558_length_3183_cov_16.0000	3183	Low-quality	3.77	HMM-based (lower-bound)	0	
+k141_405203_length_7968_cov_101.1669	7968	Low-quality	10.89	HMM-based (lower-bound)	0	
+k141_405205_length_8338_cov_111.0223	8338	Low-quality	16.61	HMM-based (lower-bound)	0	
+k141_405296_length_6126_cov_42.3838	6126	Low-quality	10.51	HMM-based (lower-bound)	0	
+k141_40629_length_7058_cov_48.2802	7058	Low-quality	13.28	AAI-based (medium-confidence)	0	no viral genes detected
+k141_406298_length_7595_cov_25.0000	7595	Low-quality	22.27	AAI-based (high-confidence)	0	
+k141_407335_length_1332_cov_27.0000	1332	Low-quality	0.91	HMM-based (lower-bound)	0	
+k141_407496_length_18728_cov_17.6383	18728	Low-quality	25.71	HMM-based (lower-bound)	0	
+k141_40790_length_7047_cov_17.0000	7047	Low-quality	14.11	AAI-based (high-confidence)	38.92	
+k141_42068_length_34216_cov_43077.6845	34216	Low-quality	22.26	AAI-based (high-confidence)	0	
+k141_42256_length_1404_cov_28.0000	1404	Low-quality	0.34	AAI-based (medium-confidence)	0	
+k141_42717_length_24801_cov_22.3265_fragment_1	9041	Low-quality	16.09	HMM-based (lower-bound)	0	
+k141_42785_length_2293_cov_14.0000	2293	Low-quality	5.14	HMM-based (lower-bound)	0	
+k141_43038_length_11915_cov_23.4208	11915	Low-quality	22.9	AAI-based (medium-confidence)	0	
+k141_43171_length_5014_cov_15.0000	5014	Low-quality	6.79	HMM-based (lower-bound)	0	
+k141_43235_length_2590_cov_13.0000	2590	Not-determined	NA	NA	0	no viral genes detected
+k141_43371_length_4013_cov_64.0917	4013	Low-quality	6.9	HMM-based (lower-bound)	0	
+k141_44087_length_1981_cov_7.0000	1981	Low-quality	3.26	AAI-based (medium-confidence)	0	
+k141_44742_length_7898_cov_68.7503	7898	Low-quality	27.66	HMM-based (lower-bound)	0	
+k141_4548_length_1891_cov_7.0000	1891	Low-quality	4.11	AAI-based (high-confidence)	0	
+k141_46062_length_2085_cov_24.0000	2085	Low-quality	1.1	HMM-based (lower-bound)	0	
+k141_47025_length_20314_cov_180.1444	20314	Low-quality	46.92	AAI-based (high-confidence)	0	
+k141_47953_length_3437_cov_14.0000	3437	Low-quality	7.35	AAI-based (high-confidence)	0	
+k141_50014_length_1947_cov_12.0000	1947	Low-quality	0.78	HMM-based (lower-bound)	0	
+k141_50420_length_34541_cov_716.9009	34541	Medium-quality	51.75	HMM-based (lower-bound)	0	
+k141_50495_length_1261_cov_9.0000	1261	Low-quality	3.28	AAI-based (medium-confidence)	0	
+k141_50578_length_4443_cov_11.0000	4443	Low-quality	8.39	AAI-based (medium-confidence)	0	
+k141_50640_length_2690_cov_32.0000	2690	Low-quality	5.42	AAI-based (high-confidence)	0	
+k141_50769_length_2734_cov_12.0000	2734	Low-quality	6.87	AAI-based (high-confidence)	0	
+k141_52597_length_2701_cov_6.0000	2701	Low-quality	3.79	AAI-based (medium-confidence)	0	
+k141_52692_length_9402_cov_27.4478	9402	Low-quality	21.81	AAI-based (medium-confidence)	0	
+k141_52907_length_3418_cov_8.0000	3418	Low-quality	8.49	AAI-based (high-confidence)	0	
+k141_5367_length_5094_cov_28.0000	5094	Low-quality	6.44	HMM-based (lower-bound)	0	
+k141_53900_length_8797_cov_326.3524	8797	Low-quality	5.31	HMM-based (lower-bound)	47.56	
+k141_54913_length_9652_cov_18.0000	9652	Low-quality	8.8	HMM-based (lower-bound)	0	
+k141_55764_length_3074_cov_7.0000	3074	Low-quality	10.18	AAI-based (high-confidence)	0	
+k141_5617_length_2700_cov_19.6905	2700	Low-quality	5.28	AAI-based (medium-confidence)	0	
+k141_56300_length_3572_cov_17.0000	3572	Low-quality	2.41	HMM-based (lower-bound)	25.2	
+k141_56903_length_29148_cov_32.5602	29148	Not-determined	NA	NA	0	no viral genes detected
+k141_5723_length_4048_cov_16.0000	4048	Low-quality	6.91	AAI-based (medium-confidence)	0	
+k141_57410_length_20504_cov_55.0607	20504	Low-quality	29.22	HMM-based (lower-bound)	0	
+k141_57441_length_1585_cov_39.8158	1585	Low-quality	2.74	HMM-based (lower-bound)	0	
+k141_58508_length_4060_cov_18.0000	4060	Not-determined	NA	NA	0	no viral genes detected
+k141_59012_length_5308_cov_31.9367	5308	Low-quality	3.57	HMM-based (lower-bound)	0	
+k141_60145_length_7083_cov_178.9520	7083	Low-quality	16.37	AAI-based (high-confidence)	0	
+k141_61441_length_39285_cov_85.7332_fragment_1	12492	Low-quality	11.73	AAI-based (medium-confidence)	0	no viral genes detected
+k141_62724_length_4261_cov_23.0000	4261	Not-determined	NA	NA	0	no viral genes detected
+k141_63097_length_7024_cov_12.0000	7024	Low-quality	16.2	AAI-based (medium-confidence)	0	
+k141_63423_length_1541_cov_23.0000	1541	Low-quality	3.32	HMM-based (lower-bound)	0	
+k141_6558_length_5258_cov_11.0000	5258	Low-quality	13.59	AAI-based (medium-confidence)	0	
+k141_65999_length_11602_cov_26.9115	11602	Not-determined	NA	NA	0	no viral genes detected
+k141_67303_length_7186_cov_31.0000	7186	Low-quality	17.13	AAI-based (high-confidence)	0	
+k141_67420_length_3427_cov_26.9994	3427	Low-quality	7.5	AAI-based (medium-confidence)	0	
+k141_67646_length_2866_cov_13.0000	2866	Low-quality	9.51	HMM-based (lower-bound)	0	
+k141_6776_length_4326_cov_41.0000	4326	Not-determined	NA	NA	0	no viral genes detected
+k141_67943_length_3187_cov_96.2663	3187	Low-quality	1.68	HMM-based (lower-bound)	0	
+k141_69528_length_6269_cov_17.0000	6269	Low-quality	0.53	HMM-based (lower-bound)	0	
+k141_70308_length_1519_cov_33.0000	1519	Low-quality	3.35	HMM-based (lower-bound)	0	
+k141_70670_length_1503_cov_123.7137	1503	Low-quality	3.02	HMM-based (lower-bound)	0	
+k141_71039_length_5277_cov_15.0000	5277	Low-quality	13.74	AAI-based (medium-confidence)	0	
+k141_71472_length_4744_cov_444.2511	4744	Not-determined	NA	NA	0	no viral genes detected
+k141_72070_length_2002_cov_14.0000	2002	Low-quality	5.08	AAI-based (high-confidence)	0	
+k141_73388_length_1592_cov_26.0000	1592	Low-quality	0.36	HMM-based (lower-bound)	0	
+k141_74859_length_5235_cov_12.9364	5235	Low-quality	8.74	AAI-based (high-confidence)	15.4	
+k141_75117_length_12314_cov_29.7213	12314	Not-determined	NA	NA	0	no viral genes detected
+k141_75704_length_4054_cov_18.0000	4054	Low-quality	9.81	AAI-based (high-confidence)	0	
+k141_75906_length_33424_cov_57.8719	33424	Not-determined	NA	NA	0	no viral genes detected
+k141_75933_length_3492_cov_13.0000	3492	Low-quality	2.65	HMM-based (lower-bound)	0	
+k141_76304_length_1285_cov_59.2850	1285	Low-quality	2.18	HMM-based (lower-bound)	0	
+k141_7685_length_14700_cov_124.8085	14700	Not-determined	NA	NA	0	no viral genes detected
+k141_76892_length_1589_cov_44.0000	1589	Low-quality	3.67	AAI-based (medium-confidence)	0	
+k141_77008_length_2281_cov_37.8654	2281	Low-quality	5.4	AAI-based (high-confidence)	0	
+k141_77115_length_1101_cov_4.0000	1101	Low-quality	2.03	HMM-based (lower-bound)	0	
+k141_77406_length_5178_cov_31.0201	5178	Low-quality	13.25	AAI-based (high-confidence)	0	
+k141_77426_length_2494_cov_21.1118	2494	Low-quality	5.91	AAI-based (high-confidence)	0	
+k141_77509_length_28270_cov_119.9646	28270	Medium-quality	85.34	AAI-based (medium-confidence)	0	
+k141_7759_length_16175_cov_77.2245	16175	Low-quality	31.07	AAI-based (medium-confidence)	0	
+k141_80174_length_4049_cov_68.6865	4049	Not-determined	NA	NA	0	no viral genes detected
+k141_80778_length_16329_cov_50.9906	16329	Low-quality	44.99	AAI-based (medium-confidence)	0	
+k141_80898_length_4093_cov_74.7019	4093	Low-quality	7.22	HMM-based (lower-bound)	0	
+k141_81973_length_149426_cov_987.5384_fragment_2	62506	Medium-quality	76.36	AAI-based (high-confidence)	36.37	low-confidence Provirus
+k141_82574_length_10666_cov_62.1145	10666	Not-determined	NA	NA	0	no viral genes detected
+k141_85598_length_6532_cov_7.0000	6532	Low-quality	16.4	AAI-based (medium-confidence)	0	
+k141_85791_length_3273_cov_21.0000	3273	Low-quality	3.85	AAI-based (medium-confidence)	0	
+k141_86346_length_4309_cov_171.1991	4309	Low-quality	9.31	AAI-based (medium-confidence)	0	
+k141_87550_length_1376_cov_5.0000	1376	Low-quality	1.41	HMM-based (lower-bound)	0	
+k141_88337_length_2248_cov_13.0000	2248	Low-quality	3.51	HMM-based (lower-bound)	0	
+k141_88978_length_4050_cov_95.7206	4050	Low-quality	7.81	AAI-based (medium-confidence)	0	
+k141_89340_length_5257_cov_99.6271	5257	Not-determined	NA	NA	0	no viral genes detected
+k141_89489_length_1562_cov_14.0000	1562	Low-quality	3.49	HMM-based (lower-bound)	0	
+k141_89516_length_18222_cov_92.1328	18222	Not-determined	NA	NA	0	no viral genes detected
+k141_89729_length_3736_cov_25.0000	3736	Low-quality	5.97	HMM-based (lower-bound)	0	
+k141_90070_length_16802_cov_121.6855	16802	Not-determined	NA	NA	0	no viral genes detected
+k141_91264_length_6123_cov_6.0000	6123	Low-quality	12.91	AAI-based (medium-confidence)	0	
+k141_91323_length_5112_cov_11.9730	5112	Low-quality	11.21	AAI-based (high-confidence)	0	
+k141_91335_length_5330_cov_28.0000	5330	Low-quality	7.06	HMM-based (lower-bound)	0	
+k141_92401_length_4247_cov_19.0000	4247	Low-quality	9.61	AAI-based (medium-confidence)	0	
+k141_92642_length_2054_cov_27.0000	2054	Low-quality	4.6	AAI-based (high-confidence)	0	
+k141_92786_length_3667_cov_14.0000	3667	Not-determined	NA	NA	0	no viral genes detected
+k141_93056_length_3630_cov_24.4428	3630	Not-determined	NA	NA	0	no viral genes detected
+k141_9334_length_1260_cov_28.0000	1260	Low-quality	0.62	HMM-based (lower-bound)	0	
+k141_93371_length_2436_cov_74.8854	2436	Low-quality	4.58	HMM-based (lower-bound)	0	
+k141_93597_length_7667_cov_30.0000	7667	Low-quality	13	HMM-based (lower-bound)	0	
+k141_94204_length_2306_cov_117.5755	2306	Low-quality	5.69	AAI-based (high-confidence)	0	
+k141_9509_length_12592_cov_10.0000	12592	Low-quality	20.21	HMM-based (lower-bound)	0	
+k141_95296_length_16852_cov_80.3096	16852	Low-quality	29.65	AAI-based (medium-confidence)	0	
+k141_95658_length_3174_cov_48.6360	3174	Not-determined	NA	NA	0	no viral genes detected
+k141_95676_length_2791_cov_9.0000	2791	Low-quality	6.85	AAI-based (high-confidence)	0	
+k141_99192_length_33305_cov_4570.5273	33305	Complete	100	DTR (medium-confidence)	0	
+k141_99967_length_6887_cov_318.7713	6887	Not-determined	NA	NA	0	no viral genes detected
